@@ -1,7 +1,6 @@
-import About from"./components/About/About";
+import About from"./Components/About/About";
 import Home from"./components/Home/Home";
 import Cantacts from"./components/Cantacts/Cantacts";
-
 
 import {Route, Switch} from "react-router";
 import { NavLink } from "react-router-dom";
